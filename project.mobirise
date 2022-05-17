@@ -50,7 +50,7 @@
     "versionPublish": "5.6.8",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/279940922-1030918254198376-9071633321640213024-n-128x257.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-sq-128x128.png",
     "mbrsiteDomain": "iof8ssl67n",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -68,7 +68,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": ""
       },
       "components": [
         {
